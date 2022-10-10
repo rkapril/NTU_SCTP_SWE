@@ -4,7 +4,7 @@
 
 In this assessment, you will be given references for self study before making an attempt to five coding practices. To download this folder, you can clone it or download this as a zip file. 
 
-![Screenshot](/assets/screenshot-code.png)
+![Screenshot](assets/screenshot-code.png)
 
 Click on the green button with `Code` and choose `Download ZIP`. The entire assessment should not take you more than **2 hours**.
 
